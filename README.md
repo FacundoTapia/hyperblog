@@ -5,4 +5,5 @@ Repositorio creado en el [Curso Profesional Git y Github](https://platzi.com/cla
 Realizado por el alumno [Facundo Tapia](https://platzi.com/@FacundoTapia/ "Facundo Tapia")
 
 * Curso dictado por el increible profesor Freddy Vega
-* Incluye ejemplos didacticos
+* Incluye ejemplos didacticos 
+* Comandos básicos y avanzados
