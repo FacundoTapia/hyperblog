@@ -6,3 +6,6 @@ Realizado por el alumno [Facundo Tapia](https://platzi.com/@FacundoTapia/ "Facun
 
 * Curso dictado por el increible profesor Freddy Vega
 * Incluye ejemplos didacticos
+* Incluye ejemplos didacticos 
+* Comandos básicos y avanzados
+* Disponible para todas las edades
